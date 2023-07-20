@@ -8,3 +8,6 @@ https://humanshader.com/
 You can play around with different resolutions, though the zoom and squish ratio are pretty much magic numbers that aren't really meant to be changed.
 
 This was quickly put together after computing a few pixels by hand for the project, to see what a full-res image would look like. It's not optimized, or even good code. It's simply designed to follow the algorithm from the worksheet.
+
+If you want to run this code yourself, you'll need to set up SFML.
+https://www.sfml-dev.org/
